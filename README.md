@@ -1,10 +1,20 @@
-![Banner](https://github.com/joaofaveri/joaofaveri/blob/main/github_profile.jpg)
-
 <h1 align="center">
   <b>João Paulo de Faveri</b>
 </h1>
 
-Estudante de **Sistemas para Internet** na Universidade Estácio de Sá :books:, há 20 anos sou autodidata em tecnologias web, desde a época que trabalhava como estagiário na Coordenação do _Curso de Ciências da Computação da Universidade Federal de Santa Catarina_, onde me formei em Psicologia :stuck_out_tongue_winking_eye:. Das páginas estáticas com `HTML` e `JavaScript`, passando para a estilização em `CSS` e passando para tecnlogias de servidor, com `ASP` e `PHP`, sempre procurei desenlvolver ferramentas para auxiliar em minhas rotinas de trabalho. Atualmente, meu foco é no aprofundamento em `JavaScript`, `TypeScript`, `Node.JS` e `React` :brain::muscle:.
+<p align="center">
+  Estudante de <b>Sistemas para Internet</b> na Universidade Estácio de Sá :books:. Entusiasta de programação!
+</p>
+
+<br>
+
+[![Twitter Badge](https://img.shields.io/badge/-@jpaulo_faveri-6272a4?style=flat-square&labelColor=6272a4&logo=twitter&logoColor=white&link=https://twitter.com/jpaulo_faveri)](https://twitter.com/jpaulo_faveri) 
+[![Linkedin Badge](https://img.shields.io/badge/-João%20Paulo-6272a4?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaofaveri/)](https://www.linkedin.com/in/joaofaveri/) 
+[![Gmail Badge](https://img.shields.io/badge/-joao.faveri@gmail.com-6272a4?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joao.faveri@gmail.com)](mailto:joao.faveri@gmail.com)
+
+<br>
+
+Há 20 anos sou autodidata em tecnologias web, desde a época que trabalhava como estagiário na Coordenação do _Curso de Ciências da Computação da Universidade Federal de Santa Catarina_, onde me formei em Psicologia :stuck_out_tongue_winking_eye:. Das páginas estáticas com `HTML` e `JavaScript`, passando para a estilização em `CSS` e passando para tecnlogias de servidor, com `ASP` e `PHP`, sempre procurei desenlvolver ferramentas para auxiliar em minhas rotinas de trabalho. Atualmente, meu foco é no aprofundamento em `JavaScript`, `TypeScript`, `Node.JS` e `React` :brain::muscle:.
 
 <br>
 
