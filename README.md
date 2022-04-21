@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Minha participação no GitHub
+![Minhas Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=joaofaveri&count_private=true&show_icons=true&theme=dracula&locale=pt-br&include_all_commits=true)
+
+
+### Principais Linguagens de Programação
+[![Linguagens de Programação](https://github-readme-stats.vercel.app/api/top-langs/?username=joaofaveri&layout=compact&locale=pt-br&theme=dracula)](https://github.com/joaofaveri/)
+
+### O que eu faço da meia-noite às 6h?
+[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=joaofaveri&locale=pt-br&theme=dracula)](https://github.com/joaofaveri/)
