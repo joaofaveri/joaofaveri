@@ -2,9 +2,7 @@
   <b>João Paulo de Faveri</b>
 </h1>
 
-<p align="center">
-  Estudante de <b>Sistemas para Internet</b> na Universidade Estácio de Sá :books:, há 20 anos sou autodidata em tecnologias web, desde a época que trabalhava como estagiário na Coordenação do Curso de Ciências da Computação da Universidade Federal de Santa Catarina, onde me formei em Psicologia :stuck_out_tongue_winking_eye:. Das páginas estáticas com HTML e JavaScript, passando para a estilização em CSS e passando para tecnlogias de servidor, com ASP e PHP, sempre procurei desenlvolver ferramentas para auxiliar em minhas rotinas de trabalho. Atualmente, meu foco é no aprofundamento em JavaScript, TypeScript, Node.JS e React :brain::muscle:.
-</p>
+Estudante de **Sistemas para Internet** na Universidade Estácio de Sá :books:, há 20 anos sou autodidata em tecnologias web, desde a época que trabalhava como estagiário na Coordenação do _Curso de Ciências da Computação da Universidade Federal de Santa Catarina_, onde me formei em Psicologia :stuck_out_tongue_winking_eye:. Das páginas estáticas com `HTML` e `JavaScript`, passando para a estilização em `CSS` e passando para tecnlogias de servidor, com `ASP` e `PHP`, sempre procurei desenlvolver ferramentas para auxiliar em minhas rotinas de trabalho. Atualmente, meu foco é no aprofundamento em `JavaScript`, `TypeScript`, `Node.JS` e `React` :brain::muscle:.
 
 <br>
 
