@@ -1,3 +1,5 @@
+![Banner](https://github.com/joaofaveri/joaofaveri/blob/main/github_profile.jpg)
+
 <h1 align="center">
   <b>João Paulo de Faveri</b>
 </h1>
