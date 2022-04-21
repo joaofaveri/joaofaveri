@@ -55,8 +55,12 @@ Há 20 anos sou autodidata em tecnologias web, desde a época que trabalhava com
   <a href="https://github.com/joaofaveri/">
     <img src="https://github-readme-stats.vercel.app/api?username=joaofaveri&count_private=true&show_icons=true&theme=dracula&locale=pt-br&include_all_commits=true">
     <br>
+    <br>
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=joaofaveri&theme=dracula&date_format=j%2Fn%5B%2FY%5D">
+    <br> 
+    <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaofaveri&layout=compact&locale=pt-br&theme=dracula">
-    </a>
+  </a>
 </p>
 
 <br>
