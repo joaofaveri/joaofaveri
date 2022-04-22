@@ -1,6 +1,5 @@
-<h1 align="center">
-  <b>João Paulo de Faveri</b>
-</h1>
+<img src="https://github.com/joaofaveri/joaofaveri/blob/main/img/BANNER_GITHUB_v2.png">
+<h1 align="center"></h1>
 
 <p align="center">
   Estudante de <a href="https://estacio.br/cursos/graduacao/sistemas-para-internet" target="_blank"><b>Sistemas para Internet</b></a> na Universidade Estácio de Sá :books:. Entusiasta de programação!
