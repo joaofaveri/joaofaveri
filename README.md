@@ -30,7 +30,6 @@ Há 20 anos sou autodidata em tecnologias web, desde a época que trabalhava com
 
 ![PHP](https://img.shields.io/badge/-PHP-282a36?style=flat&logo=php)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-282a36?style=flat&logo=javascript)&nbsp;
-![React](https://img.shields.io/badge/-React-282a36?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-282a36?style=flat&logo=node.js)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-282a36?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-282a36?style=flat&logo=HTML5)&nbsp;
@@ -38,14 +37,22 @@ Há 20 anos sou autodidata em tecnologias web, desde a época que trabalhava com
 ![Git](https://img.shields.io/badge/-Git-282a36?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-282a36?style=flat&logo=github)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-282a36?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Angular](https://img.shields.io/badge/-Angular-282a36?style=flat&logo=angular&logoColor=DD0031)&nbsp;
 ![Inkscape](https://img.shields.io/badge/-InkScape-282a36?style=flat&logo=inkscape&logoColor=black)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-282a36?style=flat&logo=linux&logoColor=FCC624)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-282a36?style=flat&logo=ubuntu&logoColor=E95420)&nbsp;
+
+<br>
+
+### :notebook_with_decorative_cover::books:	 &nbsp;Tech Learning
+
+![React](https://img.shields.io/badge/-React-282a36?style=flat&logo=react)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-282a36?style=flat&logo=angular&logoColor=DD0031)&nbsp;
 ![NestJS](https://img.shields.io/badge/-NestJS-282a36?style=flat&logo=nestjs&logoColor=E0234E)&nbsp;
 ![Expo](https://img.shields.io/badge/-Expo-282a36?style=flat&logo=expo&logoColor=258AAF)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-282a36?style=flat&logo=mongodb&logoColor=47A248)&nbsp;
-
+![Python](https://img.shields.io/badge/-Python-282a36?style=flat&logo=python&logoColor=3776AB)&nbsp;
+![C](https://img.shields.io/badge/-C-282a36?style=flat&logo=c&logoColor=A8B9CC)&nbsp;
+![C++](https://img.shields.io/badge/-C++-282a36?style=flat&logo=cplusplus&logoColor=00599C)&nbsp;
 
 <br>
 
@@ -65,7 +72,9 @@ Há 20 anos sou autodidata em tecnologias web, desde a época que trabalhava com
 <br>
 
 ### :yawning_face:	O que eu faço da meia-noite às 6h?
-[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=@a688f3e0-9ddc-4810-989f-74cd77b8bd93&locale=pt-br&theme=dracula)](https://wakatime.com/@a688f3e0-9ddc-4810-989f-74cd77b8bd93)
+[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=a688f3e0-9ddc-4810-989f-74cd77b8bd93&locale=pt-br&theme=dracula)](https://wakatime.com/@a688f3e0-9ddc-4810-989f-74cd77b8bd93)
+
+[![wakatime](https://wakatime.com/badge/user/a688f3e0-9ddc-4810-989f-74cd77b8bd93.svg)](https://wakatime.com/@a688f3e0-9ddc-4810-989f-74cd77b8bd93)
 
 <!-- Troféus
  <p align="center">
