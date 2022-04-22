@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://twitter.com/jpaulo_faveri"><img src="https://img.shields.io/badge/-@jpaulo_faveri-282a36?style=flat-square&logo=twitter&logoColor=1DA1F2&link=https://twitter.com/jpaulo_faveri"></a>
-  <a href="https://www.linkedin.com/in/joaofaveri/"><img src="https://img.shields.io/badge/-João%20Paulo-282a36?style=flat-square&logo=Linkedin&logoColor=0A66C2&link=https://www.linkedin.com/in/joaofaveri/"></a>
+  <a href="https://www.linkedin.com/in/joaofaveri/"><img src="https://img.shields.io/badge/-joaofaveri-282a36?style=flat-square&logo=Linkedin&logoColor=0A66C2&link=https://www.linkedin.com/in/joaofaveri/"></a>
   <a href="mailto:joao.faveri@gmail.com"><img src="https://img.shields.io/badge/-joao.faveri@gmail.com-282a36?style=flat-square&logo=Gmail&logoColor=EA4335&link=mailto:joao.faveri@gmail.com"></a>
 </p>
 
