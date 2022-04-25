@@ -15,7 +15,7 @@
 
 <br>
 
-Há 20 anos sou autodidata em tecnologias web, desde a época que trabalhava como estagiário na Coordenação do _Curso de Ciências da Computação da Universidade Federal de Santa Catarina_, onde me formei em Psicologia :stuck_out_tongue_winking_eye:. Das páginas estáticas com `HTML` e `JavaScript`, passando para a estilização em `CSS` e passando para tecnologias de servidor, com `ASP` e `PHP`, sempre procurei desenvolver ferramentas para auxiliar em minhas rotinas de trabalho. Atualmente, meu foco é no aprofundamento em `JavaScript`, `TypeScript`, `Node.JS` e `React` :brain::muscle:.
+Há 20 anos sou autodidata em tecnologias web, desde a época que trabalhava como estagiário na Coordenação do _Curso de Ciências da Computação da Universidade Federal de Santa Catarina_, onde me formei em Psicologia :stuck_out_tongue_winking_eye:. Das páginas estáticas com `HTML` e `JavaScript`, passando para a estilização em `CSS` e chegando nas tecnologias de servidor, com `ASP` e `PHP`, sempre procurei desenvolver ferramentas para auxiliar em minhas rotinas de trabalho. Atualmente, meu foco é no aprofundamento em `JavaScript`, `TypeScript`, `Node.JS` e `React` :brain::muscle:.
 
 <br>
 
