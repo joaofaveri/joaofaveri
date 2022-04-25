@@ -116,10 +116,3 @@ Linux                    1 hr 58 mins        ███████████�
 
  Last Updated on 25/04/2022 03:28:12 UTC
 <!--END_SECTION:waka-->
-
-[![wakatime](https://wakatime.com/badge/user/a688f3e0-9ddc-4810-989f-74cd77b8bd93.svg)](https://wakatime.com/@a688f3e0-9ddc-4810-989f-74cd77b8bd93)
-
-<!-- Troféus
- <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=joaofaveri&theme=dracula&no-frame=true&no-bg=true" />
-</p> -->
