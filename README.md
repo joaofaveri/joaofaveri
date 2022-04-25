@@ -75,6 +75,84 @@ Há 20 anos sou autodidata em tecnologias web, desde a época que trabalhava com
 [![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=joaofaveri&locale=pt-br&theme=dracula&custom_title=90%25%20de%20chances%20de%20estar%20codando%21&langs_count=8&layout=compact)](https://wakatime.com/@a688f3e0-9ddc-4810-989f-74cd77b8bd93)
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-103-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 50 Contributions in the Year 2022
+ > 
+> 📦 32.9 kB Used in GitHub's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 6 Public Repositories 
+ > 
+> 🔑 2 Private Repositories  
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    30 commits     █████░░░░░░░░░░░░░░░░░░░░   21.74% 
+🌆 Daytime    56 commits     ██████████░░░░░░░░░░░░░░░   40.58% 
+🌃 Evening    32 commits     █████░░░░░░░░░░░░░░░░░░░░   23.19% 
+🌙 Night      20 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.49%
+
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday       41 commits     ███████░░░░░░░░░░░░░░░░░░   29.71% 
+Tuesday      11 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.97% 
+Wednesday    11 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.97% 
+Thursday     35 commits     ██████░░░░░░░░░░░░░░░░░░░   25.36% 
+Friday       29 commits     █████░░░░░░░░░░░░░░░░░░░░   21.01% 
+Saturday     6 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.35% 
+Sunday       5 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.62%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+Python                   1 hr 38 mins        █████████████████████░░░░   83.56% 
+Markdown                 14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.52% 
+PHP                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.66% 
+HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.87% 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.39%
+
+🔥 Editors: 
+VS Code                  1 hr 58 mins        █████████████████████████   100.0%
+
+🐱‍💻 Projects: 
+VSCode_for_Python_Book   1 hr 54 mins        ████████████████████████░   96.47% 
+senado.dev               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.53%
+
+💻 Operating System: 
+Linux                    1 hr 58 mins        █████████████████████████   100.0%
+
+```
+
+**I Mostly Code in PHP** 
+
+```text
+PHP                      2 repos             ██████████░░░░░░░░░░░░░░░   40.0% 
+JavaScript               1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.0% 
+TypeScript               1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.0% 
+Python                   1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.0%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/joaofaveri/joaofaveri/main/charts/bar_graph.png) 
+
+
+ Last Updated on 25/04/2022 03:18:34 UTC
 <!--END_SECTION:waka-->
 
 [![wakatime](https://wakatime.com/badge/user/a688f3e0-9ddc-4810-989f-74cd77b8bd93.svg)](https://wakatime.com/@a688f3e0-9ddc-4810-989f-74cd77b8bd93)
