@@ -74,6 +74,9 @@ Há 20 anos sou autodidata em tecnologias web, desde a época que trabalhava com
 ### :yawning_face:	O que eu faço da meia-noite às 6h?
 [![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=joaofaveri&locale=pt-br&theme=dracula&custom_title=90%25%20de%20chances%20de%20estar%20codando%21&langs_count=8&layout=compact)](https://wakatime.com/@a688f3e0-9ddc-4810-989f-74cd77b8bd93)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 [![wakatime](https://wakatime.com/badge/user/a688f3e0-9ddc-4810-989f-74cd77b8bd93.svg)](https://wakatime.com/@a688f3e0-9ddc-4810-989f-74cd77b8bd93)
 
 <!-- Troféus
