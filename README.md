@@ -75,7 +75,11 @@ Há 20 anos sou autodidata em tecnologias web, desde a época que trabalhava com
 [![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=joaofaveri&locale=pt-br&theme=dracula&custom_title=90%25%20de%20chances%20de%20estar%20codando%21&langs_count=8&layout=compact)](https://wakatime.com/@a688f3e0-9ddc-4810-989f-74cd77b8bd93)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2058%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-103-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-30%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -92,22 +96,22 @@ Há 20 anos sou autodidata em tecnologias web, desde a época que trabalhava com
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    30 commits     █████░░░░░░░░░░░░░░░░░░░░   21.74% 
-🌆 Daytime    56 commits     ██████████░░░░░░░░░░░░░░░   40.58% 
-🌃 Evening    32 commits     █████░░░░░░░░░░░░░░░░░░░░   23.19% 
-🌙 Night      20 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.49%
+🌞 Morning    30 commits     █████░░░░░░░░░░░░░░░░░░░░   21.58% 
+🌆 Daytime    56 commits     ██████████░░░░░░░░░░░░░░░   40.29% 
+🌃 Evening    32 commits     █████░░░░░░░░░░░░░░░░░░░░   23.02% 
+🌙 Night      21 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.11%
 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday       41 commits     ███████░░░░░░░░░░░░░░░░░░   29.71% 
-Tuesday      11 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.97% 
-Wednesday    11 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.97% 
-Thursday     35 commits     ██████░░░░░░░░░░░░░░░░░░░   25.36% 
-Friday       29 commits     █████░░░░░░░░░░░░░░░░░░░░   21.01% 
-Saturday     6 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.35% 
-Sunday       5 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.62%
+Monday       42 commits     ███████░░░░░░░░░░░░░░░░░░   30.22% 
+Tuesday      11 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.91% 
+Wednesday    11 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.91% 
+Thursday     35 commits     ██████░░░░░░░░░░░░░░░░░░░   25.18% 
+Friday       29 commits     █████░░░░░░░░░░░░░░░░░░░░   20.86% 
+Saturday     6 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.32% 
+Sunday       5 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.6%
 
 ```
 
@@ -152,7 +156,7 @@ Python                   1 repo              █████░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/joaofaveri/joaofaveri/main/charts/bar_graph.png) 
 
 
- Last Updated on 25/04/2022 03:18:34 UTC
+ Last Updated on 25/04/2022 03:24:28 UTC
 <!--END_SECTION:waka-->
 
 [![wakatime](https://wakatime.com/badge/user/a688f3e0-9ddc-4810-989f-74cd77b8bd93.svg)](https://wakatime.com/@a688f3e0-9ddc-4810-989f-74cd77b8bd93)
