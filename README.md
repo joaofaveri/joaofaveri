@@ -74,8 +74,6 @@ Há 20 anos sou autodidata em tecnologias web, desde a época que trabalhava com
 ### :yawning_face:	O que eu faço da meia-noite às 6h?
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2058%20mins-blue)
-
 📊 **Esta semana eu gastei meu tempo em** 
 
 ```text
