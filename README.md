@@ -53,7 +53,7 @@ Há 20 anos sou autodidata em tecnologias web, desde a época que trabalhava com
 ![Python](https://img.shields.io/badge/-Python-282a36?style=flat&logo=python&logoColor=3776AB)&nbsp;
 ![C](https://img.shields.io/badge/-C-282a36?style=flat&logo=c&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-282a36?style=flat&logo=cplusplus&logoColor=00599C)&nbsp;
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind CSS-282a36?style=flat&logo=tailwindcss&logoColor=06B6D4)&nbsp;
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-282a36?style=flat&logo=tailwindcss&logoColor=06B6D4)&nbsp;
 
 <br>
 
