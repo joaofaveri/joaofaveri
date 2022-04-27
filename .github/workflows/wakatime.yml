@@ -18,7 +18,7 @@ jobs:
           SHOW_LINES_OF_CODE: false
           SHOW_OS: true
           SHOW_EDITORS: true
-          SYMBOL_VERSION: 1
+          SYMBOL_VERSION: 3
           SHOW_PROFILE_VIEWS: false
           SHOW_DAYS_OF_WEEK: false
           SHOW_PROJECTS: false
@@ -26,6 +26,6 @@ jobs:
           SHOW_LANGUAGE_PER_REPO: false
           SHOW_SHORT_INFO: false
           SHOW_UPDATED_DATE: false
-          SHOW_COMMIT: false
+          SHOW_COMMIT: true
           SHOW_LOC_CHART: false
           
