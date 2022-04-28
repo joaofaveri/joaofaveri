@@ -110,3 +110,6 @@ Windows                  33 mins             ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀�
 
 
 <!--END_SECTION:waka-->
+
+### :copyright:	 &nbsp;Créditos
+<a href="https://www.freepik.com/vectors/coder">Coder vector created by upklyak - www.freepik.com</a>
