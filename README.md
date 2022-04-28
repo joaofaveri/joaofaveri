@@ -112,5 +112,5 @@ Windows                  33 mins             ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 
 ### :copyright:	 &nbsp;Créditos
-O vetor utilizado na capa do _profile_ foi criada por [upklyak](https://www.freepik.com/upklyak) e disponibilizado na [Freepik](https://www.freepik.com/vectors/coder)
+O vetor utilizado na capa do _profile_ foi criada por [upklyak](https://www.freepik.com/upklyak) e disponibilizado em [Freepik](https://www.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_10798281.htm#query=coder&position=0&from_view=author)
 > (_Freepik License_ - free for personal and commercial purpose with attribution)
