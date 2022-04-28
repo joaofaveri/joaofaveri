@@ -34,8 +34,8 @@ Há 20 anos sou autodidata em tecnologias web, desde a época que trabalhava com
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-282a36?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-282a36?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-282a36?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-282a36?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-282a36?style=flat&logo=github)\
+![Git](https://img.shields.io/badge/-Git-282a36?style=flat&logo=git)\
+![GitHub](https://img.shields.io/badge/-GitHub-282a36?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-282a36?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Inkscape](https://img.shields.io/badge/-InkScape-282a36?style=flat&logo=inkscape&logoColor=black)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-282a36?style=flat&logo=linux&logoColor=FCC624)&nbsp;
