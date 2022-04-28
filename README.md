@@ -112,4 +112,5 @@ Windows                  33 mins             ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 
 ### :copyright:	 &nbsp;Créditos
-O vetor utilizado na capa do _profile_ foi criada por ![upklyak](https://www.freepik.com/upklyak) e disponibilizado na ![Freepik](https://www.freepik.com/vectors/coder) (_Freepik License_ - free for personal and commercial purpose with attribution)
+O vetor utilizado na capa do _profile_ foi criada por [upklyak](https://www.freepik.com/upklyak) e disponibilizado na [Freepik](https://www.freepik.com/vectors/coder)
+> (_Freepik License_ - free for personal and commercial purpose with attribution)
