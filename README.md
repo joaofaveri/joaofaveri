@@ -93,14 +93,13 @@ Há 20 anos sou autodidata em tecnologias web, desde a época que trabalhava com
 
 ```text
 💬 Linguagens de programação: 
-Markdown                 1 hr 49 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   99.6% 
-Text                     0 secs              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   0.4%
+Nenhuma atividade rastreada esta semana
 
 🔥 Editores: 
-VS Code                  1 hr 49 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.0%
+Nenhuma atividade rastreada esta semana
 
 💻 Sistema operacional: 
-Windows                  1 hr 49 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.0%
+Nenhuma atividade rastreada esta semana
 
 ```
 
