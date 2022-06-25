@@ -76,7 +76,7 @@ Há 20 anos sou autodidata em tecnologias web, desde a época que trabalhava com
 ### :yawning_face:	Minha rotina de programador...
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-35%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-35%20hrs%2049%20mins-blue)
 
 **Eu sou diurno 🐤** 
 
