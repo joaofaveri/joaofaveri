@@ -76,14 +76,14 @@ Há 20 anos sou autodidata em tecnologias web, desde a época que trabalhava com
 ### :yawning_face:	Minha rotina de programador...
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-115%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-116%20hrs%2019%20mins-blue)
 
 **Eu sou diurno 🐤** 
 
 ```text
 🌞 Manhã      49 commits     ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.41% 
-🌆 Tarde      146 commits    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   42.94% 
-🌃 Noite      91 commits     ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   26.76% 
+🌆 Tarde      149 commits    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   43.82% 
+🌃 Noite      88 commits     ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   25.88% 
 🌙 Madrugada  54 commits     ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.88%
 
 ```
