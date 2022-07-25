@@ -2,7 +2,7 @@
 <h1 align="center"></h1>
 
 <p align="center">
-  Estudante de <a href="https://estacio.br/cursos/graduacao/sistemas-para-internet" target="_blank"><b>Sistemas para Internet</b></a> na Universidade Estácio de Sá :books:. Entusiasta de programação!
+  Student of <a href="https://estacio.br/cursos/graduacao/sistemas-para-internet" target="_blank"><b>Sistemas para Internet</b></a> at the Universidade Estácio de Sá :books:. Programming Enthusiast!
 </p>
 
 <br>
@@ -12,6 +12,10 @@
   <a href="https://www.linkedin.com/in/joaofaveri/"><img src="https://img.shields.io/badge/-joaofaveri-282a36?style=flat-square&logo=Linkedin&logoColor=0A66C2&link=https://www.linkedin.com/in/joaofaveri/"></a>
   <a href="mailto:joao.faveri@gmail.com"><img src="https://img.shields.io/badge/-joao.faveri@gmail.com-282a36?style=flat-square&logo=Gmail&logoColor=EA4335&link=mailto:joao.faveri@gmail.com"></a>
 </p>
+
+<br>
+
+I have been self-taught in web technologies for 20 years, since when I worked as an intern at the Coordination of the _Computer Science Course at the Federal University of Santa Catarina_, where I graduated in Psychology :stuck_out_tongue_winking_eye:. From static pages with `HTML` and `JavaScript`, moving on to styling in `CSS` and starting with server technologies, with `ASP` and `PHP`, I tried to develop tools to help with my work tasks. Currently, my focus is on delving into `JavaScript`, `TypeScript`, `Node.JS` and `React` :brain::muscle:.
 
 <br>
 
@@ -58,22 +62,22 @@ Há 20 anos sou autodidata em tecnologias web, desde a época que trabalhava com
 
 <br>
 
-### :octocat:	Minha participação no GitHub
+### :octocat:	GitHub Stats
 <p>
   <a href="https://github.com/joaofaveri/">
-    <img src="https://github-readme-stats.vercel.app/api?username=joaofaveri&count_private=true&show_icons=true&theme=dracula&locale=pt-br&include_all_commits=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=joaofaveri&count_private=true&show_icons=true&theme=dracula&locale=en&include_all_commits=true">
     <br>
     <br>
     <img src="http://github-readme-streak-stats.herokuapp.com?user=joaofaveri&theme=dracula&date_format=j%2Fn%5B%2FY%5D">
     <br> 
     <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaofaveri&layout=compact&locale=pt-br&theme=dracula">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaofaveri&layout=compact&locale=en&theme=dracula">
   </a>
 </p>
 
 <br>
 
-### :yawning_face:	Minha rotina de programador...
+### :yawning_face:	My Programmer Routine...
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-125%20hrs%2053%20mins-blue)
@@ -112,6 +116,6 @@ Windows                  1 hr 54 mins        ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--END_SECTION:waka-->
 
-### :copyright:	 &nbsp;Créditos
-O vetor utilizado na capa do _profile_ foi criada por [upklyak](https://www.freepik.com/upklyak), disponível em [Freepik](https://www.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_10798281.htm#query=coder&position=0&from_view=author)
+### :copyright:	 &nbsp;Credits
+The vector used in the _profile_ was created by [upklyak](https://www.freepik.com/upklyak), available in [Freepik](https://www.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_10798281.htm#query=coder&position=0&from_view=author)
 > (_Freepik License_ - free for personal and commercial purpose with attribution)
