@@ -80,7 +80,7 @@ Há 20 anos sou autodidata em tecnologias web, desde a época que trabalhava com
 ### :yawning_face:	My Programmer Routine...
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-149%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-149%20hrs%2051%20mins-blue)
 
 **I'm an Early 🐤** 
 
