@@ -82,31 +82,6 @@ Há 20 anos sou autodidata em tecnologias web, desde a época que trabalhava com
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-185%20hrs%2015%20mins-blue)
 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    117 commits    ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   20.17% 
-🌆 Daytime    275 commits    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   47.41% 
-🌃 Evening    120 commits    ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   20.69% 
-🌙 Night      68 commits     ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.72%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
 
 <!--END_SECTION:waka-->
 
