@@ -2,7 +2,7 @@
 <h1 align="center"></h1>
 
 <p align="center">
-  Student of <a href="https://estacio.br/cursos/graduacao/sistemas-para-internet" target="_blank"><b>Sistemas para Internet</b></a> at the Universidade Estácio de Sá :books:. Programming Enthusiast!
+  Technologist in <a href="https://estacio.br/cursos/graduacao/sistemas-para-internet" target="_blank"><b>Sistemas para Internet</b></a> at the Universidade Estácio de Sá :books:. Programming Enthusiast!
 </p>
 
 <br>
