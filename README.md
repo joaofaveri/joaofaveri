@@ -68,7 +68,7 @@ Há 20 anos sou autodidata em tecnologias web, desde a época que trabalhava com
     <img src="https://github-readme-stats.vercel.app/api?username=joaofaveri&theme=tokyonight&show_icons=true&hide_border=false&count_private=true">
     <br>
     <br>
-    <img src="https://streak-stats.demolab.com?user=joaofaveri&theme=tokyonight&hide_border=false" alt="joaofaveri's GitHub Stats" />
+    <img src="https://streak-stats.demolab.com?user=joaofaveri&theme=tokyonight&hide_border=false" />
     <br> 
     <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaofaveri&theme=tokyonight&show_icons=true&hide_border=false&layout=compact">
