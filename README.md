@@ -65,13 +65,13 @@ Há 20 anos sou autodidata em tecnologias web, desde a época que trabalhava com
 ### :octocat:	GitHub Stats
 <p>
   <a href="https://github.com/joaofaveri/">
-    <img src="https://github-readme-stats.vercel.app/api?username=joaofaveri&count_private=true&show_icons=true&theme=dracula&locale=en&include_all_commits=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=joaofaveri&theme=tokyonight&show_icons=true&hide_border=false&count_private=true">
     <br>
     <br>
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=joaofaveri&theme=dracula&date_format=j%2Fn%5B%2FY%5D">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaofaveri&theme=tokyonight&hide_border=false">
     <br> 
     <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaofaveri&layout=compact&locale=en&theme=dracula">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaofaveri&theme=tokyonight&show_icons=true&hide_border=false&layout=compact">
   </a>
 </p>
 
